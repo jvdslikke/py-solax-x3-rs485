@@ -19,4 +19,4 @@ print(data.yield_today)
 
 # Credits
 
-The code is based on code by "barca", see: https://github.com/InfernoEmbedded/PowerScraper/pull/16.
+Based on code by "barche", see: https://github.com/InfernoEmbedded/PowerScraper/pull/16.
