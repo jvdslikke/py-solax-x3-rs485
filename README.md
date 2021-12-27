@@ -6,6 +6,12 @@ A library to read information from your Solax X3 solar inverter through its RS48
 
 Connect pin 4 and 5 to the A and B ports of an USB to RS485 adapter. See page 34 of [the manual](https://www.solaxpower.com/wp-content/uploads/2020/02/X3-PRO-USER-MANUAL.pdf).
 
+# Installation
+
+```
+pip install solax-x3-rs485
+```
+
 # Example
 
 ```
